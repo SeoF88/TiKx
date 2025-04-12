@@ -23,4 +23,4 @@ This library provides complete access to all TikTok account functions, allowing 
 ## Installation
 
 ```bash
-pip install tiktok-manager
+pip install 
